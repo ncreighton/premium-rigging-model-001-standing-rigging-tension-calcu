@@ -1,0 +1,2 @@
+# premium-rigging-model-001-standing-rigging-tension-calcu
+Stop guessing your model's standing rigging tension — one wrong pull can warp your mast or snap a shroud. Get precise, safe tensions in seconds.  This Notion template eliminates the guesswork from model rigging by applying proven nautical engineering formulas adapted for scale. It helps you achieve historically accurate sag and prevent structural d
